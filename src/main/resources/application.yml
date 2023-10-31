@@ -7,8 +7,8 @@ spring:
       ddl-auto: update
     show-sql: true
   datasource:
-    url: jdbc:postgresql://localhost:5432/aula_solid
-    password: senac
+    url: jdbc:postgresql://localhost:5432/SOLID
+    password: postgres
     username: postgres
     driverClassName: org.postgresql.Driver
   mail:
